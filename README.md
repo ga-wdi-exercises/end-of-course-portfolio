@@ -22,6 +22,12 @@ Write a stylesheet entirely in SASS. It should contain the following...
 * At least one mixin.
 * At least one conditional statement.
 
+> **NOTE:** `sass --watch` will make developing with SASS much easier. More info [here](http://sass-lang.com/documentation/file.SASS_REFERENCE.html).
+
 ### II. Angular
 
 Convert your portfolio into a multi-state Angular application.
+
+### III. Wordpress
+
+Feeling adventurous? Convert your portfolio into a Wordpress application!
