@@ -27,6 +27,7 @@ Write a stylesheet entirely in SASS. It should contain the following...
 ### II. Angular
 
 Convert your portfolio into a multi-state Angular application.
+* You could use states to represent views for your resume, projects, about me page -- anything!
 
 ### III. Wordpress
 
