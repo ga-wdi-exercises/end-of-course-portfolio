@@ -2,6 +2,8 @@
 
 ## Prompt
 
+**Your first WDI lab will also be your last!**
+
 Finding time to work on your portfolio during WDI can be difficult. For this week's lab, we're giving you a day to work on your portfolio **and** apply some of what you've learned over the past three months. You are welcome to continue working on an existing portfolio or start working from scratch.
 
 ### Outcomes
@@ -32,3 +34,22 @@ Convert your portfolio into a multi-state Angular application.
 ### III. Wordpress
 
 Feeling adventurous? Convert your portfolio into a Wordpress application!
+
+## Inspiration
+
+Need inspiration? Check out these portfolios from previous WDI graduates...
+
+* http://britt.is/
+* http://raleighdaniel.com/
+* http://jlappano.github.io/
+* http://bradpuder.com/
+* http://nicholalexander.com/
+* http://kevoncheung.com/
+* http://rlee1121.github.io/
+* http://www.larrybuch.com/
+* http://www.timlatorre.com/
+* http://adrianbautista.com/
+* http://www.andrewmadden.com/
+* http://www.belcortes.com/
+
+> You can also Google "developer portfolio website" for more ideas :)
