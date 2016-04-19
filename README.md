@@ -2,8 +2,6 @@
 
 ## Prompt
 
-**Your first WDI lab will also be your last!**
-
 Finding time to work on your portfolio during WDI can be difficult. For this week's lab, we're giving you a day to work on your portfolio **and** apply some of what you've learned over the past three months. You are welcome to continue working on an existing portfolio or start working from scratch.
 
 ### Outcomes
